@@ -1,0 +1,1 @@
+Exemplo simples de uso do PHPUnit, para testar os métodos de uma classe que tem por objetivo a manipulação de uma lista de compras.
